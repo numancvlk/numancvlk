@@ -2,7 +2,7 @@
 <h3 align="center">A passionate junior game developer from Türkiye</h3>
 
 - 🌱 I’m currently learning **Unity and C#**
-- I am studying Management Information Systems at Altınbaş University and Computer Programming at İstanbul University.
+- 📚 I'm studying Management Information Systems at Altınbaş University and Computer Programming at İstanbul University.
 
 <h3 align="left">Connect with me: www.linkedin.com/in/numancıvelek
 
